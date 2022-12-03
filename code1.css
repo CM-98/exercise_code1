@@ -1,0 +1,50 @@
+body {
+    background-color: azure;
+}
+.title {
+    text-align: center;
+    width: 50%;
+    height: 30px;
+    padding-top: 30px;
+    margin-left: 300px;
+}
+h1 {
+    text-transform: uppercase;
+}
+.main {
+    background-color: #BFBFBF;
+    height: 2em;
+    width: 50%;
+    margin-left: 300px;
+    padding-bottom: 0PX;
+    display: flex;
+}
+.title2 {
+    color: black;
+    align-items: center;
+    margin-left: 10px;
+    display: flex;
+}
+.title3 {
+    color: darkgray;
+    align-items: center;
+    display: flex;
+    margin-left: 480px;
+}
+.photo {
+    width: 50%;
+    margin-left: 280px;
+    padding-left:20px;
+    padding-bottom: 0px;
+}
+.foot {
+    background-color: #BFBFBF;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: -3px;
+    display: flex;
+}
+.foot>p {
+    padding: .5em;
+    text-align: justify;
+}
